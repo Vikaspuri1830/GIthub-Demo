@@ -1,3 +1,2 @@
-# GIthub-Demo
-<br>
+# GitHub-Demo
 This is GitHUb demo repository
